@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
    Vusic | The music destination you want.
 </h1>
@@ -28,3 +29,6 @@
 [Music](https://ncs.io/music) by NCS
 
     Please make sure you fork the repository
+=======
+# DGV-React-Music_streaming
+>>>>>>> 094634ea49f933d404715541d4737f0377ae500a
